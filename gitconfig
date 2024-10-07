@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = darbra18@gmail.com
+	name = Brayan Henao
